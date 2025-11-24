@@ -12,6 +12,6 @@ repos:
       - id: prettier
         exclude_types: ["markdown"]
   - repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: v0.19.0
+    rev: v0.19.1
     hooks:
       - id: markdownlint-cli2
